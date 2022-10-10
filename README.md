@@ -6,3 +6,4 @@ Neel joshi
 Koya Saito
 Juan Sabogal
 Weihang Hu
+Kaitlyn Tuttle
