@@ -1,7 +1,7 @@
 # Prediction of Fetal State
 This project aims for predicting the state of fetus inside the mother's womb. Our plan is to create an web app that will allow doctors to understand whether the condition of baby inside is Normal(which is ok), Suspect(something should be taken care of) or Pathelogical(something serious). With the help of Neural Networks, Hyperparameter Optimization and Web Development we will assist doctors to make sure that baby inside the mother's womb is in sound condition!!! 
 
-##Project Contributors 
+## Project Contributors 
 <table>
    <tbody>
      <tr>
@@ -52,7 +52,7 @@ This project aims for predicting the state of fetus inside the mother's womb. Ou
  </table>
 
 =======
-##Project Team members
+## Project Team members
 Neel joshi
 Koya Saito
 Juan Sabogal
