@@ -54,9 +54,15 @@ This project aims for predicting the state of fetus inside the mother's womb. Ou
 =======
 ## Project Team members
 Neel joshi
+
 Koya Saito
+
 Juan Sabogal
+
 Weihang Hu
+
 Kaitlyn Tuttle
+
 Gabriella Stickney
+
 Vu Song Thuy Nguyen
